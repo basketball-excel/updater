@@ -1,0 +1,19 @@
+{
+  "version": "v0.0.14",
+  "notes": "-   feat: 增加球队历史，增加球队历史，增加球队历史，增加球队历史，增加球队历史，增加球队历史\n-   fix: 解决列表刷新 bug，解决列表刷新 bug，解决列表刷新 bug，解决列表刷新 bug，解决列表刷新 bug",
+  "pub_date": "2023-03-27T01:02:58.886Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUL0I3VzlBTU9zY3NHV2xnVFZlbEx3d1p6QkZGbU9JTzBlVkt0WEtkRENnamVZSldseU5TcG9UdlhjRGZqODlPenZoRzVrbDJxeWN3M0NrZ3l0TUlBQXRHZGY0enBPZVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5ODQ1MzYyCWZpbGU6QmFza2V0YmFsbCBFeGNlbC5hcHAudGFyLmd6CllwYStvbEFpbkFxTm9OWmVkZllsUklSNmNXZU1wWmVlVmtBa1plT1BtWkdQR3JxVWNGWGo1MmtOUEdySkYvMTUvK2QxaUNMMVQ4V2JVenpQeS93NUJRPT0K",
+      "url": "https://cdn.jsdelivr.net/gh/basketball-excel/updater@latest/bundle/Basketball Excel.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUL0I3VzlBTU9zY2xuMjhpQ1ZHczdvZXlMWENrakVpeU9pUHVhbEF4NCt2Zmp2Mk0rOEpBdlRuZW9Gc21lSFM2NWRlMWtXSzQ3bklFVEQ2YjhlM0pUd3dYQ3NLaVJVOHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5ODQ1ODUzCWZpbGU6QmFza2V0YmFsbCBFeGNlbC5hcHAudGFyLmd6CllDRzlrOG5yTGNkeEdxOUxXYi94eWVyQThtQ2JjNzY1cExjVW5kRlM0R0FnRDZhdlpWL0UzTUhmRTJ2ZlVoR1lhL3NzUTZjcHNRKzBLRkxvYlZwU0NBPT0K",
+      "url": "https://cdn.jsdelivr.net/gh/basketball-excel/updater@latest/bundle/Basketball.Excel.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUL0I3VzlBTU9zY291aGFvZjI1bkNaZ2YrcXVVNTc1cnA4WXR6RHdvaStEOVhvMXRqK0kyWjUyTmRnMGdVbnh4L1JySEZ1aDMrN2hnQ3V2bXlIVFlsK3M2ODg4QmI1WHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5ODQ1ODYzCWZpbGU6QmFza2V0YmFsbCBFeGNlbF8wLjAuMTRfeDY0X2VuLVVTLm1zaS56aXAKSEFXdEdMem9MUXZkQnBMdW1oTGdWZFo3bDNxQTlsUEk2aTN3MVRiU1FSTzJLQW14cTBQamFCSkd5SnRuYmNXS3FHN3RvTHliWU43cytJTS9nMGJ1Q1E9PQo=",
+      "url": "https://cdn.jsdelivr.net/gh/basketball-excel/updater@latest/bundle/Basketball.Excel_0.0.14_x64_en-US.msi.zip"
+    }
+  }
+}
